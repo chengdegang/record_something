@@ -27,13 +27,27 @@
 
 9、设备标定数据处理，文件结构+数据异常校验和处理
 
-好用的工具
+好用的工具（已组内应用/体验）
 --
 1、抓包工具 https://github.com/mitmproxy/mitmproxy<br> 
 
 2、终端 https://github.com/Eugeny/tabby/releases/tag/v1.0.164<br> 
 
-3、性能监控 perfdog （可能收费）
+3、性能监控 perfdog （可能收费，但监控非常全）
 
-4、
+4、代码检查+安全分析 https://github.com/MobSF/Mobile-Security-Framework-MobSF.git
+
+5、静态代码检查（facebook） https://infer.liaohuqiu.net/docs/getting-started.html
+
+6、性能监控 https://github.com/alibaba/mobileperf （部分指标数据监控不到）
+
+7、Vysor 好用的安卓同屏软件
+
+8、Katalon Studio 好用的web移动端自动化工具，可以录制脚本，体验未用
+
+一些可参考的测试经验
+--
+1、jmeter相关 https://github.com/aliesbelik/awesome-jmeter 
+
+2、各大厂公开的测试经验 https://github.com/abhivaikar/howtheytest
 
